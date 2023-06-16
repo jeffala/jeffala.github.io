@@ -1,4 +1,3 @@
-
 # The Site Configuration
 
 # Import the theme
@@ -45,7 +44,7 @@ social:
     - https://twitter.com/jeffalalg94 # change to your twitter homepage
     - https://github.com/jeffala # change to your github homepage
     # Uncomment below to add more social links
-     - https://www.linkedin.com/in/j-licona
+    - https://www.linkedin.com/in/j-licona
 
 google_site_verification: # fill in to your verification string
 
